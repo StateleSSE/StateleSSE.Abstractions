@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net6.0;net8.0;net9.0;net10.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+
+    <!-- NuGet Package Metadata -->
+    <PackageId>StateleSSE.Abstractions</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Alex</Authors>
+    <Description>Core abstractions for StateleSSE. Defines ISseBackplane interface for implementing custom backplane providers (Redis, in-memory, RabbitMQ, etc.).</Description>
+    <PackageTags>sse;server-sent-events;abstractions;interface;stateless</PackageTags>
+    <RepositoryUrl>https://github.com/yourusername/StateleSSE</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <RootNamespace>StateleSSE.Abstractions</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+    <PackageReference Include="PolySharp" Version="1.14.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

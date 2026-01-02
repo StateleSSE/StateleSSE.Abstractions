@@ -1,0 +1,14 @@
+/home/alex/src/kahoot/StateleSSE.Abstractions/bin/Debug/net8.0/StateleSSE.Abstractions.deps.json
+/home/alex/src/kahoot/StateleSSE.Abstractions/bin/Debug/net8.0/StateleSSE.Abstractions.dll
+/home/alex/src/kahoot/StateleSSE.Abstractions/bin/Debug/net8.0/StateleSSE.Abstractions.pdb
+/home/alex/src/kahoot/StateleSSE.Abstractions/bin/Debug/net8.0/StateleSSE.Abstractions.xml
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.AssemblyInfoInputs.cache
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.AssemblyInfo.cs
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.csproj.CoreCompileInputs.cache
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.sourcelink.json
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.dll
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/refint/StateleSSE.Abstractions.dll
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.xml
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/StateleSSE.Abstractions.pdb
+/home/alex/src/kahoot/StateleSSE.Abstractions/obj/Debug/net8.0/ref/StateleSSE.Abstractions.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ei7NmXJ3C+E=",
+  "success": true,
+  "projectFilePath": "/home/alex/src/kahoot/StateleSSE.Abstractions/StateleSSE.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "/home/alex/.nuget/packages/polysharp/1.14.1/polysharp.1.14.1.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "/home/alex/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
